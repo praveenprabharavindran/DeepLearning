@@ -12,4 +12,4 @@
  !python --version
  ```
  
-* [github - JerryKurata/First-NN-Tensorflow](https://github.com/JerryKurata/First-NN-Tensorflow)a
+* [github - JerryKurata/First-NN-Tensorflow](https://github.com/JerryKurata/First-NN-Tensorflow)
